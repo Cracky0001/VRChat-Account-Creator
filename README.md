@@ -11,5 +11,5 @@ To create a new account, all you have to do is enter your desired username, pass
 ## Requirements
 - [Chrome](https://www.google.com/chrome/) or [Chromium](https://www.chromium.org/getting-involved/download-chromium/)
 - [.NET Framework](https://dotnet.microsoft.com/en-us/download) 
-- [ChromeDriver](https://chromedriver.chromium.org) (is available in the latest [Release](https://))
+- [ChromeDriver](https://chromedriver.chromium.org) (is available in the latest [Release](https://github.com/Cracky0001/VRChat-Account-Creator/releases))
 
