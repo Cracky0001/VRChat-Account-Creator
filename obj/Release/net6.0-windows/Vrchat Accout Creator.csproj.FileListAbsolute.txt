@@ -1,0 +1,25 @@
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\bin\Release\net6.0-windows\Vrchat Accout Creator.exe
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\bin\Release\net6.0-windows\Vrchat Accout Creator.deps.json
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\bin\Release\net6.0-windows\Vrchat Accout Creator.runtimeconfig.json
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\bin\Release\net6.0-windows\Vrchat Accout Creator.dll
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\bin\Release\net6.0-windows\Vrchat Accout Creator.pdb
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\bin\Release\net6.0-windows\OpenQA.Selenium.Winium.dll
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\bin\Release\net6.0-windows\WebDriver.dll
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator.csproj.AssemblyReference.cache
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\App.g.cs
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator_MarkupCompile.cache
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator.g.resources
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator.AssemblyInfoInputs.cache
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator.AssemblyInfo.cs
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator.csproj.CoreCompileInputs.cache
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator.csproj.CopyComplete
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator.dll
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\refint\Vrchat Accout Creator.dll
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator.pdb
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator.genruntimeconfig.cache
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\ref\Vrchat Accout Creator.dll
+C:\Users\mirco\source\repos\Vrchat Accout Creator\Vrchat Accout Creator\obj\Release\net6.0-windows\Vrchat Accout Creator_Content.g.cs

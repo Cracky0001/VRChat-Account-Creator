@@ -1,0 +1,34 @@
+﻿<Window x:Class="VRChatAccountCreator.MainWindow"
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     Title="VRChat Account Creator - by Cracky0001" Height="200" Width="500" ResizeMode="NoResize">
+    <Window.Background>
+        <ImageBrush ImageSource="/night-sky-stars-scenery-landscape-21-4K.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/night-sky-stars-scenery-landscape-21-4K.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" Margin="5" Text="Username:" Foreground="White"/>
+        <TextBox x:Name="UsernameTextBox" Grid.Row="0" Grid.Column="1" Margin="5" Foreground="Black" Background="#59FFFFFF" MaxLength="15"/>
+        <TextBlock Grid.Row="1" Grid.Column="0" Margin="5" Text="Passwort:" Foreground="White"/>
+        <TextBox x:Name="PasswordTextBox" Grid.Row="1" Grid.Column="1" Margin="5" Background="#59FFFFFF" MaxLength="32"/>
+        <TextBlock Grid.Row="2" Grid.Column="0" Margin="5" Text="Email:" Foreground="White"/>
+        <TextBox x:Name="EmailTextBox" Grid.Row="2" Grid.Column="1" Margin="5" Background="#59FFFFFF"/>
+        <Button x:Name="CreateAccountButton" Grid.Row="3" Grid.ColumnSpan="2" Margin="5" Click="CreateAccountButton_Click" Background="#59158CD8" BorderBrush="White" Foreground="White" Content="Create VRChat Account"/>
+        <Button x:Name="OpenAccountDirectoryButton" Grid.Row="4" Grid.ColumnSpan="2" Margin="5" Click="OpenAccountDirectoryButton_Click" Background="#59158CD8" BorderBrush="White" Foreground="White" Content="Open Account Directory"/>
+        <TextBlock Text="Made by Cracky0001" VerticalAlignment="Bottom" HorizontalAlignment="Right" Grid.Column="1" Grid.Row="5" Foreground="White" />
+    </Grid>
+</Window>

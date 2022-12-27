@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Vrchat_Accout_Creator</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Creator.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="night-sky-stars-scenery-landscape-21-4K.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Creator.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenQA.Selenium.Winium" Version="1.0.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="night-sky-stars-scenery-landscape-21-4K.jpg" />
+  </ItemGroup>
+
+</Project>
